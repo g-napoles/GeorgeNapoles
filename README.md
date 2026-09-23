@@ -1,1 +1,1 @@
-# George-Napoles-Portfolio-Website
+# Code for the portfolio website of George Napoles
