@@ -178,8 +178,8 @@ section {
 }
 
 .circle-img {
-    width: 400px;
-    height: 400px;
+    max-width: 100%;
+    height: auto;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -221,6 +221,10 @@ section {
     height: 2rem;
 }
 
+.ucr-icon {
+    cursor: default;
+    height: 2rem;
+}
 /* BUTTONS */
 
 .btn-container {
